@@ -1,4 +1,4 @@
-C- collaboration with Rozanne on printf project.
+C- collaboration with Muhammad on printf project.
 
 
 Authors - Rozanne Owino and Muhammad Daud 
